@@ -97,6 +97,11 @@ a {
     border: 3px solid #3882F6;
 }
 
+.info {
+    margin: 0px 20px 0px 20px;
+    max-width: 325px;
+}
+
 
 /*  Section 3  */
 
